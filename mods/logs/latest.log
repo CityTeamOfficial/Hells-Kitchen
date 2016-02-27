@@ -1,0 +1,71 @@
+[16:35:20] [main/INFO]: Setting user: Boqzo1
+[16:35:24] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:35:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:Et Futurum, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:FastCraft, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JABBA, FMLFileResourcePack:Mantle, FMLFileResourcePack:MineFactory Reloaded, FMLFileResourcePack:MFR Compat: Applied Energistics, FMLFileResourcePack:MFR Compat: Atum, FMLFileResourcePack:MFR Compat: BackTools, FMLFileResourcePack:MFR Compat: BuildCraft, FMLFileResourcePack:MFR Compat: Chococraft, FMLFileResourcePack:MFR Compat: ExtraBiomes, FMLFileResourcePack:MFR Compat: Forestry, FMLFileResourcePack:MFR Compat: ForgeMicroblock, FMLFileResourcePack:MFR Compat: IC2, FMLFileResourcePack:MFR Compat: Mystcraft, FMLFileResourcePack:MFR Compat ProjectRed, FMLFileResourcePack:MFR Compat: Railcraft, FMLFileResourcePack:MFR Compat: Sufficient Biomes, FMLFileResourcePack:MFR Compat: Thaumcraft, FMLFileResourcePack:MFR Compat: Thermal Expansion, FMLFileResourcePack:MFR Compat: Tinkers' Construct, FMLFileResourcePack:MFR Compat: TwilightForest, FMLFileResourcePack:MFR Compat: Vanilla, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:MineTweakerRecipeMaker, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:Natura, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Redstone Arsenal, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Translocator, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WR-CBE Core, FMLFileResourcePack:WR-CBE Addons, FMLFileResourcePack:WR-CBE Logic, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, F32-1.7.10.zip
+[16:35:37] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: OceanMonument.txt in C:\Users\Minecraft\Documents\Curse\Minecraft\Instances\Core\mods\Et Futurum-1.4.2.jar
+[16:35:53] [Sound Library Loader/INFO]: Sound engine started
+[16:35:56] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/blocks/technical/new/test/ExhaustPlating.png, java.io.FileNotFoundException
+[16:35:57] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_216_bookshelf.png, java.io.FileNotFoundException
+[16:35:58] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/planks.png, java.io.FileNotFoundException
+[16:35:59] [Client thread/INFO]: Created: 4096x2048 textures/blocks-atlas
+[16:36:00] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_4352_extrautils:textures/items/lawSword.png, java.io.FileNotFoundException
+[16:36:00] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_4369_extrautils:textures/items/microblocks.png, java.io.FileNotFoundException
+[16:36:00] [Client thread/ERROR]: Using missing texture, unable to load minefactoryreloaded:textures/items/item.mfr.rednet.meter.debug.png, java.io.FileNotFoundException
+[16:36:00] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
+[16:36:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:Et Futurum, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:FastCraft, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JABBA, FMLFileResourcePack:Mantle, FMLFileResourcePack:MineFactory Reloaded, FMLFileResourcePack:MFR Compat: Applied Energistics, FMLFileResourcePack:MFR Compat: Atum, FMLFileResourcePack:MFR Compat: BackTools, FMLFileResourcePack:MFR Compat: BuildCraft, FMLFileResourcePack:MFR Compat: Chococraft, FMLFileResourcePack:MFR Compat: ExtraBiomes, FMLFileResourcePack:MFR Compat: Forestry, FMLFileResourcePack:MFR Compat: ForgeMicroblock, FMLFileResourcePack:MFR Compat: IC2, FMLFileResourcePack:MFR Compat: Mystcraft, FMLFileResourcePack:MFR Compat ProjectRed, FMLFileResourcePack:MFR Compat: Railcraft, FMLFileResourcePack:MFR Compat: Sufficient Biomes, FMLFileResourcePack:MFR Compat: Thaumcraft, FMLFileResourcePack:MFR Compat: Thermal Expansion, FMLFileResourcePack:MFR Compat: Tinkers' Construct, FMLFileResourcePack:MFR Compat: TwilightForest, FMLFileResourcePack:MFR Compat: Vanilla, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:MineTweakerRecipeMaker, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:Natura, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Redstone Arsenal, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Translocator, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WR-CBE Core, FMLFileResourcePack:WR-CBE Addons, FMLFileResourcePack:WR-CBE Logic, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:Carpenter's Blocks Cached Resources, F32-1.7.10.zip
+[16:36:10] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: OceanMonument.txt in C:\Users\Minecraft\Documents\Curse\Minecraft\Instances\Core\mods\Et Futurum-1.4.2.jar
+[16:36:13] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/blocks/technical/new/test/ExhaustPlating.png, java.io.FileNotFoundException
+[16:36:13] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_216_bookshelf.png, java.io.FileNotFoundException
+[16:36:13] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/planks.png, java.io.FileNotFoundException
+[16:36:14] [Client thread/INFO]: Created: 4096x2048 textures/blocks-atlas
+[16:36:15] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_4352_extrautils:textures/items/lawSword.png, java.io.FileNotFoundException
+[16:36:15] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_4369_extrautils:textures/items/microblocks.png, java.io.FileNotFoundException
+[16:36:15] [Client thread/ERROR]: Using missing texture, unable to load minefactoryreloaded:textures/items/item.mfr.rednet.meter.debug.png, java.io.FileNotFoundException
+[16:36:15] [Client thread/INFO]: Created: 2048x1024 textures/items-atlas
+[16:36:16] [Sound Library Loader/INFO]: Sound engine started
+[16:36:29] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[16:36:29] [Server thread/INFO]: Generating keypair
+[16:36:30] [Server thread/INFO]: Preparing start region for level 0
+[16:36:31] [Server thread/INFO]: Preparing spawn area: 88%
+[16:36:32] [Server thread/INFO]: Changing view distance to 8, from 10
+[16:36:32] [Server thread/INFO]: Boqzo1[local:E:a4c330cd] logged in with entity id 462 at (-9.432949027262143, 91.0, -342.68639925699085)
+[16:36:32] [Server thread/INFO]: Boqzo1 joined the game
+[16:36:39] [Client thread/INFO]: [CHAT] codechickencore.update
+[16:36:39] [Client thread/INFO]: [CHAT] InvTweaks: Configuration loaded.
+[16:36:44] [Server thread/INFO]: Saving and pausing game...
+[16:36:44] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:36:44] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:36:44] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[16:36:44] [Server thread/INFO]: Saving chunks for level 'New World'/Underdark
+[16:36:44] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[16:36:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel 2, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:Et Futurum, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:FastCraft, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JABBA, FMLFileResourcePack:Mantle, FMLFileResourcePack:MineFactory Reloaded, FMLFileResourcePack:MFR Compat: Applied Energistics, FMLFileResourcePack:MFR Compat: Atum, FMLFileResourcePack:MFR Compat: BackTools, FMLFileResourcePack:MFR Compat: BuildCraft, FMLFileResourcePack:MFR Compat: Chococraft, FMLFileResourcePack:MFR Compat: ExtraBiomes, FMLFileResourcePack:MFR Compat: Forestry, FMLFileResourcePack:MFR Compat: ForgeMicroblock, FMLFileResourcePack:MFR Compat: IC2, FMLFileResourcePack:MFR Compat: Mystcraft, FMLFileResourcePack:MFR Compat ProjectRed, FMLFileResourcePack:MFR Compat: Railcraft, FMLFileResourcePack:MFR Compat: Sufficient Biomes, FMLFileResourcePack:MFR Compat: Thaumcraft, FMLFileResourcePack:MFR Compat: Thermal Expansion, FMLFileResourcePack:MFR Compat: Tinkers' Construct, FMLFileResourcePack:MFR Compat: TwilightForest, FMLFileResourcePack:MFR Compat: Vanilla, FMLFileResourcePack:MineTweaker 3, FMLFileResourcePack:MineTweakerRecipeMaker, FMLFileResourcePack:Mod Tweaker 2, FMLFileResourcePack:Natura, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:MapWriter, FMLFileResourcePack:Opis, FMLFileResourcePack:Redstone Arsenal, FMLFileResourcePack:Thermal Dynamics, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Translocator, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:WR-CBE Core, FMLFileResourcePack:WR-CBE Addons, FMLFileResourcePack:WR-CBE Logic, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:Carpenter's Blocks Cached Resources
+[16:36:45] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: OceanMonument.txt in C:\Users\Minecraft\Documents\Curse\Minecraft\Instances\Core\mods\Et Futurum-1.4.2.jar
+[16:36:48] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/blocks/technical/new/test/ExhaustPlating.png, java.io.FileNotFoundException
+[16:36:48] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_216_bookshelf.png, java.io.FileNotFoundException
+[16:36:48] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/blocks/marbleslab/marble-arranged-bricks-top.png, java.io.FileNotFoundException
+[16:36:48] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/planks.png, java.io.FileNotFoundException
+[16:36:49] [Client thread/INFO]: Created: 2048x1024 textures/blocks-atlas
+[16:36:49] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_4352_extrautils:textures/items/lawSword.png, java.io.FileNotFoundException
+[16:36:49] [Client thread/ERROR]: Using missing texture, unable to load missing_icon_item_4369_extrautils:textures/items/microblocks.png, java.io.FileNotFoundException
+[16:36:49] [Client thread/ERROR]: Using missing texture, unable to load minefactoryreloaded:textures/items/item.mfr.rednet.meter.debug.png, java.io.FileNotFoundException
+[16:36:49] [Client thread/INFO]: Created: 1024x512 textures/items-atlas
+[16:36:51] [Sound Library Loader/INFO]: Sound engine started
+[16:37:13] [Server thread/INFO]: [Boqzo1: Given [End Portal] * 1 to Boqzo1]
+[16:37:13] [Client thread/INFO]: [CHAT] Given [End Portal] * 1 to Boqzo1
+[16:37:14] [Server thread/INFO]: [Boqzo1: Given [Eye of Ender] * 1 to Boqzo1]
+[16:37:14] [Client thread/INFO]: [CHAT] Given [Eye of Ender] * 1 to Boqzo1
+[16:37:34] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4907ms behind, skipping 98 tick(s)
+[16:37:51] [Server thread/INFO]: [Boqzo1: Given [Flux-Infused Sword] * 1 to Boqzo1]
+[16:37:51] [Client thread/INFO]: [CHAT] Given [Flux-Infused Sword] * 1 to Boqzo1
+[16:40:18] [Server thread/INFO]: Saving and pausing game...
+[16:40:18] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:40:19] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:40:19] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[16:40:19] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[16:40:19] [Server thread/INFO]: Stopping server
+[16:40:19] [Server thread/INFO]: Saving players
+[16:40:19] [Server thread/INFO]: Saving worlds
+[16:40:19] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:40:19] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:40:19] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[16:40:19] [Server thread/INFO]: Saving chunks for level 'New World'/The Last Millenium
+[16:40:24] [Client thread/INFO]: Stopping!
